@@ -1,8 +1,8 @@
-package lesson3.case1;
+package lesson2.case1;
 
 public class Product<T extends Product<T>> implements Comparable<T>{
 
-    private String name = "name";
+    String name = "name";
 
     public String getName() {
         return name;
