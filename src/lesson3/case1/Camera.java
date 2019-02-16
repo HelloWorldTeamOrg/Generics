@@ -1,6 +1,6 @@
 package lesson3.case1;
 
-public class Camera extends Product {
+public class Camera extends Product<Camera> {
 
     Integer pixels = 1024;
 

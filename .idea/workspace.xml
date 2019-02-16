@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb3ff6ab-381b-40f3-a9ec-b9c4527b1bf4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/lesson3/case1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/case1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/case1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/case1/Product.java" afterDir="false" />
-    </list>
+    <list default="true" id="cb3ff6ab-381b-40f3-a9ec-b9c4527b1bf4" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,12 +97,6 @@
               <item name="Generics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="case1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -199,16 +190,15 @@
       <option name="presentableId" value="Default" />
       <updated>1550307349748</updated>
       <workItem from="1550307353105" duration="622000" />
-      <workItem from="1550309561791" duration="3980000" />
+      <workItem from="1550309561791" duration="4113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4602000" />
+    <option name="totallyTimeSpent" value="4735000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
