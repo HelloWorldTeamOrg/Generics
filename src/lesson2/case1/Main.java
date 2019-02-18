@@ -1,29 +1,26 @@
 package lesson2.case1;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collection;
 import java.util.List;
 
 public class Main {
 
-    static void find(List<? extends Product> all, Product p) {
+    public static void print(Collection<String> collection) {
+        System.out.println("generic");
+        for (String string : collection) {
+            System.out.println(string);
+        }
     }
 
     public static void main(String[] args) {
 
-        Camera camera1 = new Camera();
-        Camera camera2 = new Camera();
-        Phone phone1 = new Phone();
-        Phone phone2 = new Phone();
-        Product product1 = new Product();
-        Product product2 = new Product();
+        List<String> strList = new ArrayList();
+        List<Object> objList = new ArrayList();
 
-        List<Product> listProduct = new ArrayList();
-        List<Camera> listCameras = new ArrayList();
-
-        find(listProduct, product1);
-        find(listProduct, camera1);
-        find(listCameras, product1);
-        find(listCameras, phone1); // !!! - Not safely
+        print(strList);  // Ok
+        //print(objList);  // Compile Eroor
 
     }
 }
