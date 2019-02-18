@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3ff6ab-381b-40f3-a9ec-b9c4527b1bf4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson3/case4/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/case4/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson3/case4/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/case4/C.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,41 +17,14 @@
       <file leaf-file-name="SelfBounded.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/lesson3/case4/SelfBounded.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="72">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SelfBounded.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson3/case3/SelfBounded.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lesson3/case4/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson3/case4/B.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson3/case4/C.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson2/case5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -59,17 +32,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson3/case3/A.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson3/case3/C.java">
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson2/case5/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -77,11 +41,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="B.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lesson3/case3/B.java">
+      <file leaf-file-name="Container.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lesson2/case5/Container.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="108">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -110,6 +88,8 @@
         <option value="$PROJECT_DIR$/src/lesson3/case4/B.java" />
         <option value="$PROJECT_DIR$/src/lesson3/case3/A.java" />
         <option value="$PROJECT_DIR$/src/lesson3/case4/A.java" />
+        <option value="$PROJECT_DIR$/src/lesson3/case4/C.java" />
+        <option value="$PROJECT_DIR$/src/README.txt" />
       </list>
     </option>
   </component>
@@ -159,14 +139,7 @@
               <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
               <item name="Generics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Generics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson3" type="462c0819:PsiDirectoryNode" />
-              <item name="case4" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -265,12 +238,12 @@
       <updated>1550307349748</updated>
       <workItem from="1550307353105" duration="622000" />
       <workItem from="1550309561791" duration="4113000" />
-      <workItem from="1550481322472" duration="1370000" />
+      <workItem from="1550481322472" duration="3269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6105000" />
+    <option name="totallyTimeSpent" value="8004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="988" extended-state="6" />
@@ -391,13 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson3/case4/SelfBounded.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson3/case3/SelfBounded.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -426,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/lesson3/case4/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson3/case4/B.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -442,8 +401,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lesson3/case4/A.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson3/case4/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson3/case4/SelfBounded.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson2/case5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson2/case5/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lesson2/case5/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
